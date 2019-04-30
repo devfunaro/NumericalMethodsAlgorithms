@@ -14,17 +14,17 @@
 
 ###### Input Explanation
 --- 
-   func - char vector of the function you want evaluated 
-   xl - the lower bound of the search 
-   xu - the upper bound of the search 
-   es - *optional(defaults to .0.0001%)* stopping crieterion in percent
-   maxiter - *optional(defaults to 200)* maximum iterations 
+   func - char vector of the function you want evaluated   
+   xl - the lower bound of the search  
+   xu - the upper bound of the search  
+   es - *optional(defaults to .0.0001%)* stopping crieterion in percent  
+   maxiter - *optional(defaults to 200)* maximum iterations   
 
 ###### Output Expanation
 ---
-   root - The estimate for the root bracketed by user interval
-   fx - The function that's root is being estimated
-   ea - approximate percent relative error
-   iter - the iteration it took to arrive at the estimate
+   root - The estimate for the root bracketed by user interval  
+   fx - The function that's root is being estimated  
+   ea - approximate percent relative error  
+   iter - the iteration it took to arrive at the estimate  
 
 
