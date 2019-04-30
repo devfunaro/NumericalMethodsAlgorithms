@@ -2,9 +2,7 @@
 ###### The FalsePosition method is implemented for this algorithm (This method is explained [here](https://en.wikipedia.org/wiki/False_position_method)) 
 ---
 
-
- This Function finds roots based on the false position method 
-   falsePosition(func,xl,xu,es,maxiter)
+Too use the function download and move to the directory you are working in, then the function can be called by falsePosition(func,xl,xu,es,maxiter) The output and input are explained bellow in detail.
 
 ###### INFO
 ---
@@ -18,7 +16,7 @@
    func - char vector of the function you want evaluated   
    xl - the lower bound of the search  
    xu - the upper bound of the search  
-   es - *optional(defaults to .0.0001%)* stopping crieterion in percent  
+   es - *optional(defaults to 0.0001%)* stopping crieterion in percent  
    maxiter - *optional(defaults to 200)* maximum iterations   
 
 ###### Output Expanation
