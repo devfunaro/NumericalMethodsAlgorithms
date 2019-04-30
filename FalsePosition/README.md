@@ -1,5 +1,5 @@
 #### FalsePosition is a matlab function intended too find the roots of a function within a bracket
-##### The FalsePosition method is implemented for this algorithm (This method is explained [here](https://en.wikipedia.org/wiki/False_position_method)) 
+###### The FalsePosition method is implemented for this algorithm (This method is explained [here](https://en.wikipedia.org/wiki/False_position_method)) 
 ---
 
 
