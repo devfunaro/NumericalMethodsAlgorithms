@@ -1,4 +1,5 @@
-#### The FalsePosition algorithm is written in matlab 
+#### FalsePosition is a matlab function intended too find the roots of a function within a bracket
+##### The FalsePosition method is implemented for this algorithm (This method is explained [here](https://en.wikipedia.org/wiki/False_position_method)) 
 ---
 
 
@@ -27,4 +28,7 @@
    ea - approximate percent relative error  
    iter - the iteration it took to arrive at the estimate  
 
+#### false_position_test is a matlab script that enable easy testing of the falsePosition algorithm
+---
 
+This script allows automates the testing procedure of the algorithm with multiple functions and variable input criteria. This testing script is important for quick development while creating the algorithm. 
